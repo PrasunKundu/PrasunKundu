@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Page%20Roast-Live%20Product-0366d6?style=flat-square&logo=vercel&logoColor=white)](https://page-roast-psi.vercel.app)
 [![Email](https://img.shields.io/badge/Email-rajkundu181202%40gmail.com-0366d6?style=flat-square&logo=gmail&logoColor=white)](mailto:rajkundu181202@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0366d6?style=flat-square&logo=linkedin&logoColor=white)]([https:/(https://www.linkedin.com/in/kundu-prasun18/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0366d6?style=flat-square&logo=linkedin&logoColor=white)]([https:/https://www.linkedin.com/in/kundu-prasun18/)
 
 </div>
 
